@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TravelTripProje\\TravelTripProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|d:\\traveltripproje\\traveltripproje\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|solutionrelative:views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|d:\\traveltripproje\\traveltripproje\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|solutionrelative:controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|d:\\traveltripproje\\traveltripproje\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|d:\\traveltripproje\\traveltripproje\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|d:\\traveltripproje\\traveltripproje\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{538031A9-83B1-4951-85BB-4454B286C2C1}|TravelTripProje.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\TravelTripProje\\TravelTripProje\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\TravelTripProje\\TravelTripProje\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:34:27.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TravelTripProje\\TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\GirisYap\\Login.cshtml",
+              "ToolTip": "D:\\TravelTripProje\\TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "RelativeToolTip": "Views\\GirisYap\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:08:37.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "D:\\TravelTripProje\\TravelTripProje\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GirisYapController.cs",
+              "ToolTip": "D:\\TravelTripProje\\TravelTripProje\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "Controllers\\GirisYapController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:02:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TravelTripProje\\TravelTripProje\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\TravelTripProje\\TravelTripProje\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T15:59:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\TravelTripProje\\TravelTripProje\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\TravelTripProje\\TravelTripProje\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:59:35.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

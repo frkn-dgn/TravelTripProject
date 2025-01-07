@@ -1,0 +1,36 @@
+# User-specific files
+*.csproj.user
+*.suo
+
+# Build output directories
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Packages
+packages/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Configuration files
+*.ideconfig
+*.ideworkspace
+*.DotSettings.user
+
+# Backup files
+*.bak
+*.swp
+*.bak2
+*.old
+
+# NuGet
+*.nupkg
+project.lock.json
